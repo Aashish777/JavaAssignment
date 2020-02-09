@@ -1,4 +1,4 @@
-##Anonymous Array in Java
+## Anonymous Array in Java
  
 
 An array in java without any name is anonymous array. It is an array just for creating and using just for creating and using instantly.
@@ -22,7 +22,7 @@ An array in java without any name is anonymous array. It is an array just for cr
 
 
 
-##Default method in Interface
+## Default method in Interface
 
 Befor in Java, interface could have only abstract methods. The implementation of these methods has to be provided in a separate
 class. So, if a new method is to be added in an interface, then its implementation code has to be provided in the class implementing 
