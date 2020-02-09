@@ -55,8 +55,8 @@ Syntax:
  interface nested_interface_name{
  ..........
  }
-
-Q. ## How to create your own Exception class?
+ 
+ ## Q. How to create your own Exception class?
   
 Ans: Java provides us facility to create our own exception which are basically derived classes of Exception. Now, let's see how to create 
          a custom exception on action.
